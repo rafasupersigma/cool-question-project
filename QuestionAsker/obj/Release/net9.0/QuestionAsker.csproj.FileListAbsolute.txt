@@ -1,0 +1,14 @@
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\QuestionAsker.exe
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\QuestionAsker.deps.json
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\QuestionAsker.runtimeconfig.json
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\QuestionAsker.dll
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\QuestionAsker.pdb
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.AssemblyInfoInputs.cache
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.AssemblyInfo.cs
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.csproj.CoreCompileInputs.cache
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.dll
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\refint\QuestionAsker.dll
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.pdb
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\QuestionAsker.genruntimeconfig.cache
+C:\Users\pumpy\Projects\QuestionAsker\obj\Release\net9.0\ref\QuestionAsker.dll

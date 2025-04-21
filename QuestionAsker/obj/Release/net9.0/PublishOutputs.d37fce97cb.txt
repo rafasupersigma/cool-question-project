@@ -1,0 +1,5 @@
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\publish\QuestionAsker.exe
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\publish\QuestionAsker.dll
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\publish\QuestionAsker.deps.json
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\publish\QuestionAsker.runtimeconfig.json
+C:\Users\pumpy\Projects\QuestionAsker\bin\Release\net9.0\publish\QuestionAsker.pdb
